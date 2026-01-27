@@ -43,7 +43,7 @@ function InputBox({
       <p className="trxt-black/40 mb-2 w-full
       ">Currency Type</p>
       <select
-      className="rounded-lg px-1 bg-gray-100
+      className="rounded-lg px-2 bg-gray-100
       cursor-poinbter
       outline"
       value={selectCurrency}
